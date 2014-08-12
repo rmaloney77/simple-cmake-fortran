@@ -1,0 +1,1 @@
+add_executable ("FortranDemo" "hello_world.f")
